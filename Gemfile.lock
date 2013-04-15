@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    resample (0.0.1)
+      ffi
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.7.0)
+    rake (10.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.3)
+  rake
+  resample!

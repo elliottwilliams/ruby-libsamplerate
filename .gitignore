@@ -17,4 +17,4 @@ tmp
 
 ._*
 .DS_Store
-.sublime-*
+*.sublime-*
